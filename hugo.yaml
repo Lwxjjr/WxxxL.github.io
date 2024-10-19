@@ -1,6 +1,6 @@
-baseURL: "https://github.com/Lwxjjr/WxxxL.github.io/" # 主站的 URL
+baseURL: "https://Lwxjjr.github.io/" # 主站的 URL
 title: WxxxL's Blog # 站点标题
-copyright: "[©2024 Lwx's Blog](https://github.com/Lwxjjr/WxxxL.github.io)" # 网站的版权声明，通常显示在页脚
+copyright: "[©2024 Lwx's Blog](https://github.com/Lwxjjr/Lwxjjr.github.io)" # 网站的版权声明，通常显示在页脚
 theme: PaperMod # 主题
 languageCode: zh-cn # 语言
 
